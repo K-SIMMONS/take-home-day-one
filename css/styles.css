@@ -1,0 +1,23 @@
+.title{
+    font-size: 40px;
+    color:red;
+    text-align: center;
+}
+
+.sec-one{
+    background-color: aqua;
+    height: 440px;
+    width: 350px;
+    font-size: 15px;
+    position: relative;
+}
+
+.sec-two{
+    background-color: purple;
+    height: 440px;
+    width: 350px;
+    font-size: 15px;
+    position: relative;
+    left: 75%;
+    top:200px;
+}
